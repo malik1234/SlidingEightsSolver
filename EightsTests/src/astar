@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# NOT a general solution!  But correct for the example from lectures
+
+python astar.py < /dev/stdin
+
+
